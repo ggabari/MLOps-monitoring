@@ -1,0 +1,2 @@
+time="2025-03-29T01:21:19.095824710-06:00" level=info msg="Starting up"
+failed to start daemon, ensure docker is not running or delete /var/run/docker.pid: process with PID 160 is still running
